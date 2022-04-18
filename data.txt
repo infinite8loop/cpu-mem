@@ -1,2 +1,2 @@
-CPU usage: 4.3% user, 13.70% sys, 82.25% idle 
-PhysMem: 7559M used (1174M wired), 72M unused.
+CPU usage: 3.78% user, 12.12% sys, 84.9% idle 
+PhysMem: 7567M used (1146M wired), 64M unused.
